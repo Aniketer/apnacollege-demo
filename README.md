@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author-Aniket Patil
+Author-Aniket Patil(VS Tech)
